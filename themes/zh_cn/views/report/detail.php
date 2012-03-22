@@ -104,7 +104,7 @@ font-size: 12px;
 <th>网站注册密码</th>
 <?php if($type=='OD'||$type=='RM'){?>
 <th>AM姓名</th>
-<th>AM ID</th>
+<th>AM_ID</th>
 <th>AM手机</th>
 <th>AM部门</th>
 <?php }?>
